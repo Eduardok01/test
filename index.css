@@ -1,0 +1,30 @@
+ 
+ .color-texto{
+    background-color: antiquewhite;
+ }
+ .color-letra{
+    color: gray;
+ }
+ 
+ 
+ ul{
+    list-style-type: none;
+    padding: 10px;
+}
+
+ li{
+    display: inline;
+    padding: 10px;
+}
+
+.tamano-icono{
+    width: 50px;
+}
+
+.tamano-producto{
+    width: 200px;
+}
+
+
+
+
